@@ -16,5 +16,8 @@ int main {
 //this will be the print function and lower the curser
 printf("Maddy Burke/n");
 printf("Math Major/n");
+    
+    printf("My name is Andrew Persson\n");
+    printf("My major is mechanical engineering\n");
 return 0:
 }
